@@ -1,4 +1,4 @@
 # Google AdMob app-ads.txt
 # Thay the 'pub-0000000000000000' bang Publisher ID cua ban tu Google AdMob Console
 # Duong dan: Google AdMob > Cai dat (Settings) > Thong tin tai khoan (Account Information) > Ma xuat ban (Publisher ID)
-google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+google.com, pub-5480786330930421, DIRECT, f08c47fec0942fa0
